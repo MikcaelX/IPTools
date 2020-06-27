@@ -15,3 +15,5 @@ Tout d'abord, si vous voulez le lancer avec Python, vous devez possédé les mod
 exemple : `pip install requests`
 
 Si vous voulez l'installer viens un .exe, il vous suffie de cliquer **[ici](https://cutt.ly/iptoolsdownload)**
+
+*Ne pas copier, merci*
