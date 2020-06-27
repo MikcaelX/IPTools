@@ -7,6 +7,7 @@ Tout d'abord, si vous voulez le lancer avec Python, vous devez possédé les mod
 `webbrowser`
 `requests`
 `sys`
+
 **Comment les installer ?**
 
 `pip install {module}` 
