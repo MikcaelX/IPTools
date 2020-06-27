@@ -2,10 +2,15 @@
 Mon premier programme pour MikDeving
 # Comment l'installer ?
 Tout d'abord, si vous voulez le lancer avec Python, vous devez possédé les modules suivant : 
+
 `os`
+
 `time`
+
 `webbrowser`
+
 `requests`
+
 `sys`
 
 **Comment les installer ?**
